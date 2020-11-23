@@ -10,15 +10,15 @@ var v=0;
 var hospital;
 
 function preload(){
-sadDog=loadImage("Images/Dog.png");
-happyDog=loadImage("Images/happy dog.png");
-garden=loadImage("Images/Garden.png");
-livingroom=loadImage("Images/Living Room.png");
-washroom=loadImage("Images/Wash Room.png");
-bedroom=loadImage("Images/Bed Room.png");
-vaccImg=loadImage("Images/dogVaccination.png");
-vaccinetm=loadImage("Images/dogVaccin.png")
-hospital=loadImage("Images/petHospital.jpg");
+sadDog=loadImage("images/Dog.png");
+happyDog=loadImage("images/happy dog.png");
+garden=loadImage("images/Garden.png");
+livingroom=loadImage("images/Living Room.png");
+washroom=loadImage("images/Wash Room.png");
+bedroom=loadImage("images/Bed Room.png");
+vaccImg=loadImage("images/dogVaccination.png");
+vaccinetm=loadImage("images/dogVaccin.png")
+hospital=loadImage("images/petHospital.jpg");
 }
 
 function setup() {
